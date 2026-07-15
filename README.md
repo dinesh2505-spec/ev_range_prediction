@@ -50,3 +50,4 @@ The dataset contains electric vehicle specifications, including:
 
 
 ### Target Variable
+Range
